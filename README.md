@@ -1,16 +1,13 @@
 # my_app1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esta es mi primera aplicación de Flutter donde vi los primeros temas como:
+  - Stateless.
+  - Stateful.
+  - Scaffolds.
+  - Estilos.
+  - Botones.
+  - Manejo de estado básico.
+ 
+En esta aplicacion pude conocer cómo es una aplicación de Flutter inicial/básica, 
+donde aprendí sobre algunos widgets como la columna, el FloatingActionButton, 
+así como sus respectivas funciones y diseños.
